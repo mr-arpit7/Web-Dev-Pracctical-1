@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First GitHub Project</title>
-</head>
 <body>
+    <h2 align="center">Project: Web Designing Lab</h2>
+    <hr>
     <h1>Hello GitHub!</h1>
     <p>This is my first web project uploaded to a repository.</p>
-    <p>Student Name: Arpit Ninawe</p>
+    <p><b>Student Name:</b> Arpit Ninawe</p>
+    <p><b>Lab Code:</b> N-VSCCS102P</p>
 </body>
 </html>
